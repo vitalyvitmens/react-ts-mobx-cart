@@ -27,7 +27,7 @@ export const orderStore = makeAutoObservable({
   *createOrder() {
     orderStore.status = 'pending'
     const { success } = yield fetch(
-      'https://mocki.io/v1/909c7add-6fdf-4ee0-ac14-16147d1f3a0f'
+      'https://mocki.io/v1/909c7add-6fdf-4ee0-ac14-16147d1f3a0f' // запрос должен вернуть {success: true}
     ).then((res) => res.json())
 
     if (success) {
