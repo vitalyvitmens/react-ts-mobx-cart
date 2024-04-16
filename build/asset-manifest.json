@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-ts-mobx-cart/static/css/main.fee27ebc.css",
+    "main.js": "/react-ts-mobx-cart/static/js/main.9e0d5257.js",
+    "static/js/453.c26b6059.chunk.js": "/react-ts-mobx-cart/static/js/453.c26b6059.chunk.js",
+    "index.html": "/react-ts-mobx-cart/index.html",
+    "main.fee27ebc.css.map": "/react-ts-mobx-cart/static/css/main.fee27ebc.css.map",
+    "main.9e0d5257.js.map": "/react-ts-mobx-cart/static/js/main.9e0d5257.js.map",
+    "453.c26b6059.chunk.js.map": "/react-ts-mobx-cart/static/js/453.c26b6059.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fee27ebc.css",
+    "static/js/main.9e0d5257.js"
+  ]
+}
